@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "initial seventeen 01 mixed",
+      "Alias": "initial-seventeen-01-mixed",
+      "Id": "ee39c8c1-cabf-4a1e-b558-85df6d27b4af",
+      "Workspaces": [
+        {
+          "Id": "6897bec2-d2a6-4ad6-9a81-c557379667da",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://initial-seventeen-01-mixed.euwest01.rainbowsrock.net"
+        }
+      ]
     },
     "Settings": {}
   },
